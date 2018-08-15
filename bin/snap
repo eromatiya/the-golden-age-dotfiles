@@ -1,0 +1,6 @@
+#!/bin/bash
+notify-send "  Say Cheese!"
+mplayer /usr/share/sounds/fx/snap.mp3 &  PIDIOS=$!
+maim ~/Pictures/Screenshots/$(date +%Y%m%d_%H%M%S).png; xclip -selection clipboard -t image/png -i ~/Pictures/Screenshots/`ls -1 -t ~/Pictures/Screenshots | head -1` &  PIDMIX=$!
+wait $PIDIOS
+wait $PIDMIX
