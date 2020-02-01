@@ -15,11 +15,20 @@ I almost forgot about this bspwm setup. I feel nostalgic while typing this.*
 + **DOCK**: plank  
 + **Launcher**: rofi and dmenu-extended  
 
-| Clean | urxvt-patched | Pop-up music info** | Pop-up systemifo** |
+| Clean | urxvt-patched | Pop-up music info* | Pop-up systemifo* |
 | --- | --- | --- | --- |
 | ![Screenshot](/screenshots/20180814_161326.png) | ![Screenshot](/screenshots/20180814_160325.png) | ![Screenshot](/screenshots/20180814_161400.png) | ![Screenshot](/screenshots/20180814_160353.png) |
 
 | NCMPCPP + cava | filemanager and icons by munanazzal | rofi | dmenu-extended |
 | --- | --- | --- | --- |
 | ![Screenshot](screenshots/20180814_160246.png) | ![Screenshot](/screenshots/20180814_160426.png) | ![](/screenshots/20180814_162238.png) | ![](/screenshots/20180814_162309.png) |
+
+
+
+
+
+
+**&ast;&ast;consist of polybars and n30f stitched together**
+
+
 
