@@ -19,7 +19,7 @@ I almost forgot about this bspwm setup. I feel nostalgic while typing this.*
 | --- | --- | --- | --- |
 | ![Screenshot](/screenshots/20180814_161326.png) | ![Screenshot](/screenshots/20180814_160325.png) | ![Screenshot](/screenshots/20180814_161400.png) | ![Screenshot](/screenshots/20180814_160353.png) |
 
-| NCMPCPP + cava | filemanager and icons by munanazzal | rofi and dmenu-extended |
+| NCMPCPP + cava | filemanager and icons by munanazzal | rofi | dmenu-extended |
 | --- | --- | --- | --- |
 | ![Screenshot](screenshots/20180814_160246.png) | ![Screenshot](/screenshots/20180814_160426.png) | ![](/screenshots/20180814_162238.png) | ![](/screenshots/20180814_162309.png) |
 
